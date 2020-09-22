@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKG_Lab2", "IKG_Lab2.csproj", "{DFC2CC2E-E31A-4961-85E6-EE0913204CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC2CC2E-E31A-4961-85E6-EE0913204CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC2CC2E-E31A-4961-85E6-EE0913204CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC2CC2E-E31A-4961-85E6-EE0913204CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC2CC2E-E31A-4961-85E6-EE0913204CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABDA23DA-09C2-4622-BB3E-B5717C7A40BD}
+	EndGlobalSection
+EndGlobal
